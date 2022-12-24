@@ -15,7 +15,7 @@ const MyContainer = () => {
     <div className="container">
     <header className="header p-4 text-center">
       <h2 className="text-uppercase text-white" style={{ letterSpacing: 3 }}>
-        weatherr <span className="fw-bold">forecastt</span>
+        weather <span className="fw-bold">forecast</span>
       </h2>
     </header>
     <Search setShowMap={setShowMap}/>
